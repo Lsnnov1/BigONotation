@@ -1,0 +1,52 @@
+Q1 
+O(n)
+
+Q2
+O(n)
+
+Q3
+O(1)
+
+Q4
+O(n^3)
+Q5 
+O(n)
+Q6
+O(n)
+
+Q7 
+O(n log n)
+
+Q8 
+O(2^n)
+
+Q9 
+O(1)
+
+Q10 
+O(n^2)
+
+PART TWO 
+
+1. O(n)
+2. O(n)
+3. O(1)
+4. O(n)
+5. O(n^2)
+6. O(n)
+
+PART THREE 
+
+1. TRUE 
+2. TRUE 
+3. FALSE
+4. O(n)
+5. O(n)
+6. O(n) if there are no other n loops 
+7. O(n log n)
+8. O(n) It overwrites original array, the length can vary.
+9. O(1)
+10. O(n) depends on what/ how long the splice is. 
+11. O(1)
+12. O(n) depends on how big the object is.
+13. O(n) arrays and objects
